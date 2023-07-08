@@ -1,0 +1,82 @@
+body {
+    background-color: #131212;
+}
+#container {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+.container {
+    font-size: large;
+}
+.artikel {
+    background-color: rgb(241, 207, 10);
+    border-radius: 50px;
+    opacity: 0.9;
+    background-image: url(foto1.png);
+    background-position: center;
+    background-size: 555500px;
+    background-repeat: no-repeat;
+    box-shadow: 10px 9px 8px rgb(109, 108, 108);
+}
+.judul {
+    text-transform: uppercase;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-top: 30px;
+}
+.header {
+    background-color:rgb(241, 207, 10);
+    text-transform: uppercase;
+    border-radius: 40px;
+    text-align: center;
+    padding: 20px;
+    font-family: georgia;
+    font-style: italic;
+    box-shadow: 10px 9px 8px rgb(109, 108, 108);
+}
+.foto1 {
+    width: 120px;
+    float: left;
+    margin: 0px;
+    margin-left: 25px;
+
+}
+.p1 {
+    width: 900px;
+    text-align:left;
+
+    margin-left: 50px;
+}
+.foto2 {
+    width: 100px;
+    float: left;
+    margin:30px;
+    margin-right: 20px;
+    
+}
+.p2 {
+    width: 900px;
+    margin-left: 60px;
+    text-align: left;   
+}
+.foto3 {
+    width: 300px;
+    float: left;
+    margin: 30px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 10px black;
+}
+.p3 {
+    width: 900px;
+    margin-left: 50px;
+    text-align: justify; 
+    padding-bottom: 30px;
+}
+.footer {
+    background-color: rgb(241, 207, 10);
+    border-radius: 50px;
+    text-align: center;
+    padding: 30px;
+    box-shadow: 10px 10px 10px black;
+}
